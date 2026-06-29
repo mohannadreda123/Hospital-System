@@ -1,4 +1,6 @@
+#pragma once
 #include<iostream>
+#include<string>
 #include"person.cpp"
 using namespace std;
 class Doctor : public Person

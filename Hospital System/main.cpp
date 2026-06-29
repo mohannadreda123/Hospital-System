@@ -1,8 +1,5 @@
 #include<iostream>
 #include"hospital.cpp"
-#include"doctor.cpp"
-#include"patient.cpp"
-#include"date.cpp"
 using namespace std;
 int main()
 {
